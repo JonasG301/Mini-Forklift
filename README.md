@@ -4,11 +4,11 @@ The Miniature Forklift Project is a unique creation designed from scratch, featu
 
 Features:
 
-Custom Design: The forklift is designed entirely from scratch, emphasizing a compact and functional design suitable for miniature operations.
+1. Custom Design: The forklift is designed entirely from scratch, emphasizing a compact and functional design suitable for miniature operations.
 
-Xbox Controller Interface: Users can control the forklift's movements using an Xbox controller, offering precise and intuitive control over its operations.
+2. Xbox Controller Interface: Users can control the forklift's movements using an Xbox controller, offering precise and intuitive control over its operations.
 
-Transport and Stack: The forklift is capable of transporting and stacking small boxes, showcasing its practicality and versatility.
+3. Transport and Stack: The forklift is capable of transporting and stacking small boxes, showcasing its practicality and versatility.
 
 Components Used:
 
