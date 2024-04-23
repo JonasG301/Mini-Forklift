@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/AppleJavaExtensions.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/asm-debug-all.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/jinput.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/laf-plugin-7.2.1.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/laf-widget-7.2.1.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/log4j-api-2.0-beta9.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/lwjgl-debug.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/lwjgl.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/lwjgl_util.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/lwjgl_test.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/lwjgl_util_applet.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/lzma.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/substance-7.2.1.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/trident-7.2.1.jar!/" />
+          <root url="file://$USER_HOME$/Desktop" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Desktop" />
+          <root url="file://$USER_HOME$/Desktop/info3" />
+          <root url="file://$USER_HOME$/Desktop/v1/gui2222" />
+          <root url="jar://$USER_HOME$/Desktop/info3.zip.zip!/info3" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Desktop" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Desktop" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
