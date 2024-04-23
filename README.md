@@ -22,3 +22,5 @@ How it Works:
 2. The control commands are transmitted wirelessly to the forklift via the WiFi socket connection.
 3. The forklift's custom-designed 3D-printed parts enable it to transport and stack small boxes.
 4. Serial communication between the forklift and the Activity Bot facilitates data exchange and coordination for enhanced functionality.
+![Structure](https://github.com/JonasG301/Mini-Forklift/assets/153020346/d8d81cdf-1222-4a2e-af6c-66ca90b83f36)
+![Controlls](https://github.com/JonasG301/Mini-Forklift/assets/153020346/2b4f1a1f-6e39-4803-acbf-a8fc51f86a02)
